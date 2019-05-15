@@ -91,11 +91,17 @@ WSGI_APPLICATION = 'myreact.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'mysql.connector.django',
-        'NAME': 'foodie&co',
-        'USER': 'root',
-        'PASSWORD': 'Erased123!',
-        'HOST': 'localhost',
+        'NAME': 'heroku_c2645e2a3ae395e',
+        'USER': 'b9fbdbac1516f5',
+        'PASSWORD': '7b0328fc',
+        'HOST': 'us-cdbr-iron-east-02.cleardb.net',
         'PORT': '3306'
+        # 'ENGINE': 'mysql.connector.django',
+        # 'NAME': 'foodie&co',
+        # 'USER': 'root',
+        # 'PASSWORD': 'Erased123!',
+        # 'HOST': 'localhost',
+        # 'PORT': '3306'
         # 'ENGINE': 'django.db.backends.mysql'
         # 'NAME': 'foodieco',
         # 'USER' : 'root',
