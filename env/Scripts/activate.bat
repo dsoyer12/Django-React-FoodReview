@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\Users\djour\Documents\Capstone\backend\env"
+set "VIRTUAL_ENV=C:\Users\djour\Documents\Capstonefinal\env"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
