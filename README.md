@@ -1,5 +1,11 @@
 # Capstonefinal
 
-DEMO:www.Foodieandco.site
+**Demo** www.Foodieandco.site
 
-Senior Fullstack Project utilizing React and Django Rest Api to create a personal restaurant review site.
+**Project**  Fullstack SPA  utilizing React and Django Rest Api to create a personal restaurant review site.
+
+**Backend**
+![backend](https://i.ibb.co/2nxwqBf/django-Rest.png)
+
+**Frontend**
+![frontend](https://i.ibb.co/PDrNKrD/restaurant1.png")
